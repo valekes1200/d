@@ -2,11 +2,13 @@ img{
     margin-left: 850px;
 }
 @font-face{
-    font-family: monstyle;
-    src: url("fonts/Ubuntu/Ubuntu-Bold.ttf");
+    font-family: "monstyle";
+    src: url("fonts/EduAUVICWANTGuides-VariableFont_wght.ttf");
 }
 h1{
-    font-family: monstyle;
+    text-align: center;
+    color: red;
+    font-family: "monstyle";
 }
 body{
     background-color: #77aa77;
