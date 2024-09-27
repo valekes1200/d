@@ -1,12 +1,12 @@
 img{
     margin-left: 850px;
-}@font-face {
-    font-family: 'MaPolice';
-    src: url('fonts/Edu_AU_VIC_WA_NT_Guides(1)/EduAUVICWANTGuides-VariableFont_wght.ttf') format('truetype');
 }
-
-h1 {
-    font-family: 'MaPolice'; /* Applique la police à un h1 */
+@font-face{
+    font-family: monstyle;
+    src: url("fonts/Ubuntu/Ubuntu-Bold.ttf");
+}
+h1{
+    font-family: monstyle;
 }
 body{
     background-color: #77aa77;
